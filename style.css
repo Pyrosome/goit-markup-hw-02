@@ -1,1 +1,28 @@
+* {
+    list-style: none;
+    color: black;
+    font: roboto;
+    font-size: 14px;
+    text-decoration: none;
+} 
+
+ a:hover, filters:hover {
+    color: #2196F3;
+}
+
+.logo {
+    font: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.spanblue {
+    color: #2196F3;
+}
+.spanwhite {
+    color: white;
+}
+
+:root {
+    --bluecolor: #2196F3;
 

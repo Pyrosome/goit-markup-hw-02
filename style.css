@@ -6,14 +6,22 @@
     text-decoration: none;
 } 
 
- a:hover, filters:hover {
+address{
+    font-style: normal;
+}
+
+ a:hover, button:hover {
     color: #2196F3;
 }
 
-.logo {
+.logo,  .logo span {
     font: Raleway;
     font-size: 26px;
     font-weight: 700;
+}
+
+.filters li {
+    filter: drop-shadow(2px 2px 2px black);
 }
 
 .spanblue {
@@ -22,7 +30,8 @@
 .spanwhite {
     color: white;
 }
-
-:root {
-    --bluecolor: #2196F3;
-
+ 
+footer{
+    background-color: #2F303A;
+    color: rgba(255,255,255, 0.6);
+}

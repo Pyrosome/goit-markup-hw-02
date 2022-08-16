@@ -21,7 +21,7 @@ address{
 }
 
 .filters li {
-    filter: drop-shadow(2px 2px 1px black);
+    filter: drop-shadow(2px 2px 2px black);
 }
 
 .spanblue {
@@ -31,9 +31,7 @@ address{
     color: white;
 }
  
-footer {
+footer{
     background-color: #2F303A;
-}
-address a{
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255,255,255, 0.6);
 }
